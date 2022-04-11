@@ -1,0 +1,10 @@
+      /* CSS code to style the picture container and images */
+      #slideshow {
+        /* Height of box should roughly match image heights */
+        height: 375px;
+        text-align: center;
+      }
+      /* Size each image to fit container height */
+      #slideshow img {
+        height: 100%;
+      }
